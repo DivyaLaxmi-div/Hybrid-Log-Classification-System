@@ -40,6 +40,9 @@ This project classifies enterprise log messages into categories like:
 - Cloud deployment
 
 ---
+## Screenshot
+
+![Log Classification UI](log1.png)
 
 ## Disclaimer
 
